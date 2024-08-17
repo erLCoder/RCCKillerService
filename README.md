@@ -4,6 +4,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/erLCoder/RCCKillerService)
 ![GitHub License](https://img.shields.io/github/license/erLCoder/RCCKillerService)
 ![GitHub Repo stars](https://img.shields.io/github/stars/erLCoder/RCCKillerService)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/erLCoder/RCCKillerService/total)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/erLCoder/RCCKillerService)
 
 ## Описание
