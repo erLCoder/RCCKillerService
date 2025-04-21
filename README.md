@@ -7,6 +7,9 @@
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/erLCoder/RCCKillerService/total)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/erLCoder/RCCKillerService)
 
+- USDT (TRC20): `TBMCqT5tEjJwfwjZYLbCV2cYa7PSfef5AB`
+- Ripple (XRP): `r3nYz54U198Hiw2VyV3SFChxNDUudQggz`
+
 ## Описание
 
 RCCKillerService - это служба Windows, написанная на C#, предназначенная для автоматического завершения процессов, связанных с определенными приложениями, которые используются во время проверок в игре Rust. Эта служба полезна для читеров, которые хотят усложнить проверку их ПК на вспомогательное ПО.
