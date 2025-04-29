@@ -30,7 +30,7 @@ RCCKillerService - это служба Windows, написанная на C#, п
 
 1. **Скачайте релизную версию:**
 
-   Перейдите на страницу [релизов](https://github.com/erLCoder/RCCKillerService/releases) вашего репозитория на GitHub и скачайте последнюю стабильную версию.
+   Перейдите на страницу [релизов](https://github.com/erLCoder/RCCKillerService/releases) репозитория на GitHub и скачайте последнюю стабильную версию.
 
 2. **Распакуйте архив:**
 
