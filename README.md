@@ -72,3 +72,5 @@ InstallUtil.exe /u путь_к_папке_с_ProcMonitor.exe
 
 ## Лицензия
 Этот проект лицензирован под MIT License. Подробности смотрите в файле [LICENSE](LICENSE).
+
+#tags: cheat, windows-service, rust-game, cheat-detection, rustcheat, rustcheatcheck, rcckiller, rust-bypass
